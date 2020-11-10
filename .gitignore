@@ -1,3 +1,3 @@
-*.bat
+openJupyter.bat
 .*
 env*
